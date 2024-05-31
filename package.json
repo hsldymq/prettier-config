@@ -1,0 +1,22 @@
+{
+  "name": "@hsldymq/prettier-config",
+  "version": "0.1.0",
+  "description": "My own prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsldymq/prettier-config.git"
+  },
+  "keywords": [
+    "prettier-config"
+  ],
+  "author": "Long HB <hsldymq@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsldymq/prettier-config/issues"
+  },
+  "homepage": "https://github.com/hsldymq/prettier-config#readme"
+}
